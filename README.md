@@ -47,27 +47,6 @@
 | ۹ | 🚀 **پروژه‌ی ترکیبی**: دستیار آزمایشگاه مغز و آنتروپی شانون | کلود شانون و نظریه‌ی اطلاعات | [باز کن](session09_project_brain_lab.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shiva323/Midlevel-python/blob/main/session09_project_brain_lab.ipynb) |
 | ۱۰ | **مجموعه‌ها (set)**: یکتایی، اجتماع، اشتراک و تفاضل | گئورگ کانتور و ادگار کاد | [باز کن](session10_sets.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shiva323/Midlevel-python/blob/main/session10_sets.ipynb) |
 | ۱۱ | 🐢 **کتابخانه‌ی turtle** + جمع‌بندی، تمرین‌های مروری و کوییز جامع | سیمور پاپرت و گری والتر | [باز کن](session11_turtle_and_review.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shiva323/Midlevel-python/blob/main/session11_turtle_and_review.ipynb) |
-
----
-
-
-## 📜 تالار مشاهیر این دوره
-|
-|:---:|:---|:---|
-| حدود ۸۲۰ م | محمد بن موسی خوارزمی | ریشه‌ی واژه‌های «الگوریتم» و «جبر» |
-| ۱۸۴۳ | ایدا لاولیس و چارلز ببیج | نخستین برنامه برای موتور تحلیلی |
-| ۱۸۵۴ | جورج بول | جبر بولی |
-| دهه‌ی ۱۸۷۰ | گئورگ کانتور | نظریه‌ی مجموعه‌ها |
-| ۱۹۳۶ | آلن تورینگ | ماشین تورینگ |
-| ۱۹۴۳ | وارن مک‌کالک و والتر پیتس | نخستین مدل نورون مصنوعی |
-| ۱۹۴۵ | جان فون نویمان | کامپیوتر با برنامه‌ی ذخیره‌شده |
-| ۱۹۴۷ | گریس هاپر | ماجرای «باگ» و کامپایلرها |
-| ۱۹۴۸ | کلود شانون | نظریه‌ی اطلاعات و بیت |
-| ۱۹۴۸ | ویلیام گری والتر | لاک‌پشت‌های رباتیک و پیشگامی در EEG |
-| ۱۹۵۰ | ریچارد همینگ | کدهای تصحیح خطا |
-| ۱۹۵۶ | ادسخر دایکسترا | الگوریتم کوتاه‌ترین مسیر |
-| ۱۹۶۵ | لطفی‌زاده | منطق فازی |
-| ۱۹۶۷ | سیمور پاپرت | زبان لوگو |
-| ۱۹۷۰ | ادگار کاد | پایگاه داده‌ی رابطه‌ای |
+ |
 
 </div>
